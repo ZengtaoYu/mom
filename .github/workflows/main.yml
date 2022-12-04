@@ -1,4 +1,4 @@
-name: morning
+name: morning_mom
 on:
   schedule:
   - cron:  '0 0 * * * '
